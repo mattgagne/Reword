@@ -1,3 +1,5 @@
+# REWORD. By Mathieu Gagne
+
 #include <windows.h>
 
 /* This is where all the input to the window goes to */
